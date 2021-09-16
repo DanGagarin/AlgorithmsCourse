@@ -1,4 +1,4 @@
-package HW2;
+package Homework2;
 
 public class MyArrayList <Item extends Comparable>{
 
